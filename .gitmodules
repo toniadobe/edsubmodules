@@ -1,0 +1,6 @@
+[submodule "repoed1"]
+	path = repoed1
+	url = https://github.com/toniadobe/repoed1.git
+[submodule "repoed2"]
+	path = repoed2
+	url = https://github.com/toniadobe/repoed2.git
